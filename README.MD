@@ -19,4 +19,4 @@ CREATE TABLE users (
     password VARCHAR(255) NOT NULL
 );
 ```
-
+once you complete this step simply create an account and upload your images using the exact file path.
